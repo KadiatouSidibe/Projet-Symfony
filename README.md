@@ -1,7 +1,9 @@
 Projet
+
 Un grand groupe de résidences service senior souhaite refondre son site web grand public, pour optimiser sa visiblité, son image, et augmenter le trafic sur leur site.
 
 Contexte
+
 Le projet est développé en interne mais le groupe de possède pas de développeur expérimenté. Lors du confinement, la société a engagé deux stagiaires qui ont :
 
 établi le cahier des charges
@@ -14,6 +16,7 @@ Dans ce cadre là, vous intervenez en tant que SSII pour reprendre l'existant, q
 Avant de la mettre le site en production, le client souhaite passer une phase de recette pour s'assurer que le site est prêt et qu'il est conforme à la demande.
 
 Objectifs
+
 Livrer une version du site grand public prête à être mise en ligne par le client. Le livrable doit être exempt de bugs, comprendre le maximum de fonctionnalités, être estétiquement beau et adapté aux smartphones, tablettes, et écran de bureau.
 
 Cahier des charges
@@ -87,11 +90,13 @@ Bouton envoyer
 La liste des demandes de contact doit être disponible via l'espace communication
 
 Authentification
+
 L'utilisateur doit pouvoir se connecter sur le site, via un nom d'utilisateur et un mot de passe.
 
 Pour un profil du métier, la création du compte peut être faite en contactant l'administrateur
 
 Lot 2
+
 
 Un compte utilisateur ne peut être activé que manuellement par l'administrateur.
 
@@ -104,9 +109,11 @@ Titre du site (utilisé pour le nom des onglets)
 L'administrateur peut mettre le site en mode maintenance
 
 Gestion des utilisateurs
+
 L'administrateur peut consulter/éditer/bloquer/débloquer des comptes utilisateurs.
 
 Espace communication
+
 Demandes de contact
 L'espace com' permet de consulter la liste des demandes de contact
 
@@ -117,6 +124,7 @@ Lot 2 : Espace client
 Tout utilisateur peut créer un compte sur le site.
 
 Compte client
+
 Nom Prénom (obligatoire)
 Civilité
 Date de naissance (qui donne l'age)
